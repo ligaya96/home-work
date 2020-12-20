@@ -1,1 +1,2 @@
-# home-work
+homeweek1 code refactor
+In this week’s homework, I was able to add semantic elements to the website HTML. I was able to clearly define each <div> element into an element that better defined the different parts of the web page. Improving the HTML to make it user friendly, and the code is easier to read. Getting rid of a lot of unnecessary code that was cluttering up the HTML. I did not change the CSS page, as I did not want to disrupt the webpage style. I did change some of the CSS to read the new elements I added in the HTML.
